@@ -1,1 +1,3 @@
-# ml_fais_1
+# ML Course repository
+
+## recent HW: possibilistic_k_means.ipynb
