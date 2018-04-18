@@ -1,3 +1,4 @@
 # ML Course repository
 
-## recent HW: possibilistic_k_means.ipynb
+
+## recent HW: Czekanowski_Dice_Idx.ipynb, possibilistic_k_means.ipynb
