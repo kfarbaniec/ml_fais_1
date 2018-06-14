@@ -1,4 +1,4 @@
 # ML Course repository
 
-
-## recent HW: Czekanowski_Dice_Idx.ipynb, possibilistic_k_means.ipynb
+## All HomeWorks are in hw directory
+All the rest is messy and is not worth you attention :)
